@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @patkoton
+- 👋 Hi, I’m patkoton
 - 👀 I’m interested in acquiring knowledge and networking
-- 🌱 I’m currently learning Front-end development
+- 🌱 I’m a Front-end Developer
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @patkoton on twitter
 
